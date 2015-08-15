@@ -1,0 +1,20 @@
+# Site settings
+title: Lucas Vilaboim
+email: lucas@vilaboim.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, I'm Lucas and I am a front-end developer. I work at Cubo Amarelo creating amazing products.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://vilaboim.com" # the base hostname & protocol for your site
+
+github_username: vilaboim
+behance_username: vilaboim
+twitter_username: lucasvilaboim
+facebook_username: luvilaboim
+linkedin_link: "https://br.linkedin.com/pub/lucas-vilaboim/9b/76/529"
+
+work_name: "Cubo Amarelo"
+work_link: "http://cuboamarelo.com"
+
+# Build settings
+markdown: kramdown
+highlighter: false
