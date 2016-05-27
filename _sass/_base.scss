@@ -30,7 +30,8 @@ body {
 
 a {
   color: $text-color;
-  transition: color .4s ease-in-out;
+  text-decoration: none;
+  transition: all .4s ease-in-out;
 
   &:visited {
     color: $text-color;
@@ -38,9 +39,10 @@ a {
 
   &:hover,
   &:active {
+  	color: $background-color;
     text-decoration: none;
-    color: $text-color-hover;
-    transition: color .4s ease-in-out;
+    background-color: $text-color;
+    transition: all .4s ease-in-out;
   }
 }
 
