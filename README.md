@@ -1,6 +1,6 @@
 # vilaboim.com
 
-## Hi, I'm Lucas and I am a frontend developer.
+## Hi, I'm Lucas and I'm a frontend developer.
 ### I work at [Vitta](http://vitta.me) creating legendary products.
 
 ### These are my social networks
