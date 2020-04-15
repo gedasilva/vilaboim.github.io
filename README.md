@@ -1,9 +1,9 @@
 # vilaboim.com
 
-## Hi, I'm Lucas and I'm a frontend engineer.
+## My name is Lucas and I'm a front-end engineer
 
-### I work at [iVendas](https://www.ivendas.com.br/) creating legendary products.
+### I work at [Magalu](https://www.linkedin.com/company/magazine-luiza) creating life changing products
 
 ### These are my social networks
 
-[Github](https://github.com/vilaboim) | [Medium](https://medium.com/@vilaboim) | [LinkedIn](https://linkedin.com/in/vilaboim/en) | [Facebook](https://www.facebook.com/luvilaboim) | [Behance](https://www.behance.net/vilaboim) | [Twitter](https://www.twitter.com/lucasvilaboim)
+[LinkedIn](https://linkedin.com/in/vilaboim) | [DEV]([https](https://dev.to/vilaboim)) | [Github](https://github.com/vilaboim)
